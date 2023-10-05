@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420742073318",
+    "project_id": "network-karo",
+    "storage_bucket": "network-karo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420742073318:android:28d9bd8fa645f158772427",
+        "android_client_info": {
+          "package_name": "com.example.network_karo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420742073318-jjfmm3eu76q9mcqd7qc6pnss4davodor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg8e3gDSadFe9biMDU4uBe0GfYgmfPfeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420742073318-jjfmm3eu76q9mcqd7qc6pnss4davodor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
